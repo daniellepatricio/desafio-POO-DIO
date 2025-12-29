@@ -2,7 +2,7 @@
 
 Este projeto faz parte do desafio **“Aprendendo na Prática o Paradigma de Orientação a Objetos”**, originalmente proposto pela plataforma **Digital Innovation One (DIO)**, com o objetivo de aplicar, na prática, os principais conceitos da **Programação Orientada a Objetos (POO)** utilizando a linguagem **Java**.
 
-👉 **Projeto desenvolvido pela aluna: Danielle**.
+👉 **Projeto desenvolvido pela aluna: [Danielle](https://www.linkedin.com/in/danielle-patricio/)**.
 
 ---
 
@@ -85,17 +85,7 @@ A Programação Orientada a Objetos é um paradigma baseado na interação entre
 - **Imperativo**: Estruturado, Concorrente, Orientado a Objetos  
 - **Declarativo**: Funcional, Lógico  
 
----
-
-## 🤝 Contribuições
-
-Este repositório foi criado para **fins educacionais**.  
-Contribuições são bem-vindas!
-
-- ⭐ Dê uma estrela no projeto  
-- 🐛 Relate problemas (issues)  
-- 📢 Compartilhe com quem possa se interessar  
 
 ---
 
-📌 **Projeto realizado pela aluna Danielle**, com base no desafio educacional da Digital Innovation One e inicialmente disponibilizado por cami-la.
+📌 **Projeto realizado pela aluna [Danielle](https://www.linkedin.com/in/danielle-patricio/), com base no desafio educacional da Digital Innovation One e inicialmente disponibilizado por [cami-la](https://www.linkedin.com/in/cami-la/).
